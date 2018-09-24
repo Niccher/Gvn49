@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/release/menu/limpio.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/menu/limpio.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/release/menu/menu_main.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/release/menu/activ_limpio_drawer.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/menu/activ_limpio_drawer.xml"
+    }
+]

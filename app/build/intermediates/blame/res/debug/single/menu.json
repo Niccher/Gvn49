@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/menu/activity_homie_drawer.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/menu/activity_homie_drawer.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/menu/homie.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/menu/homie.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/menu/activ_limpio_drawer.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/menu/activ_limpio_drawer.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/menu/limpio.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/menu/limpio.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/menu/menu_nyumbani.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/menu/menu_nyumbani.xml"
+    }
+]

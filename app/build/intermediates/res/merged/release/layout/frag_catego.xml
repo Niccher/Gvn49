@@ -1,0 +1,155 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.nicch.gvn49.Catego">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="700dp">
+
+        <RadioGroup
+            android:id="@+id/Ciothe"
+            android:layout_width="match_parent"
+            android:layout_height="690dp">
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:text="Select Your Category"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <RadioButton
+                android:id="@+id/radSec"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView5"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="35dp"
+                android:text="Security" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/radSec"
+                android:layout_centerHorizontal="true"
+                android:text="Little Desc Here Security"
+                android:textAlignment="center" />
+
+            <RadioButton
+                android:id="@+id/radAgric"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView6"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="35dp"
+                android:text="Agriculture" />
+
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/radAgric"
+                android:layout_centerHorizontal="true"
+                android:text="Little Desc Here Agric"
+                android:textAlignment="center" />
+
+            <RadioButton
+                android:id="@+id/radDev"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/radComm"
+                android:layout_alignStart="@+id/radComm"
+                android:layout_below="@+id/textView9"
+                android:layout_marginTop="35dp"
+                android:text="Development" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/radDev"
+                android:layout_centerHorizontal="true"
+                android:text="Little Desc Here Dev"
+                android:textAlignment="center" />
+
+            <RadioButton
+                android:id="@+id/radRep"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView10"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="35dp"
+                android:text="Report" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/radRep"
+                android:text="Little Desc Here Report"
+                android:textAlignment="center" />
+
+            <RadioButton
+                android:id="@+id/radComm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView11"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="35dp"
+                android:text="Comment" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/radComm"
+                android:text="Little Desc Here Comment"
+                android:textAlignment="center" />
+
+            <RadioButton
+                android:id="@+id/radAnon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView11"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="35dp"
+                android:text="Anonymous" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/radComm"
+                android:text="Little Desc Here Comment"
+                android:textAlignment="center" />
+
+            <Button
+                android:id="@+id/ProcidCat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView12"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="24dp"
+                android:text="Proceed" />
+
+        </RadioGroup>
+
+    </RelativeLayout>
+
+</ScrollView>

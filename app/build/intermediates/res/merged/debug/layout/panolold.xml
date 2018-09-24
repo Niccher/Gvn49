@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="235dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" >
+
+        <RelativeLayout
+            android:id="@+id/belg"
+            android:background="@color/colobg"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/ImLab"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:background="@android:drawable/ic_menu_mylocation" />
+
+            <TextView
+                android:id="@+id/textView57"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="99dp"
+                android:text="Max Price" />
+
+            <TextView
+                android:id="@+id/textView68"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView57"
+                android:layout_marginTop="22dp"
+                android:text="Requirement" />
+
+            <TextView
+                android:id="@+id/textView69"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView68"
+                android:layout_marginTop="20dp"
+                android:text="Date" />
+
+            <TextView
+                android:id="@+id/PrStat"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:text="TextView"
+                android:textAlignment="center"
+                android:layout_above="@+id/textView68"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignLeft="@+id/PrDurTy"
+                android:layout_alignStart="@+id/PrDurTy" />
+
+            <TextView
+                android:id="@+id/PrObj"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:text="TextView"
+                android:textAlignment="center"
+                android:layout_alignBaseline="@+id/textView68"
+                android:layout_alignBottom="@+id/textView68"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignLeft="@+id/PrExp"
+                android:layout_alignStart="@+id/PrExp" />
+
+            <TextView
+                android:id="@+id/PrExp"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:text="TextView"
+                android:textAlignment="center"
+                android:layout_alignBaseline="@+id/textView69"
+                android:layout_alignBottom="@+id/textView69"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignLeft="@+id/PrDurTy"
+                android:layout_alignStart="@+id/PrDurTy" />
+
+            <TextView
+                android:id="@+id/PrTt"
+                android:layout_width="295dp"
+                android:layout_height="wrap_content"
+                android:text="Title"
+                android:textAlignment="center"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+            <TextView
+                android:id="@+id/PrOwn"
+                android:layout_width="295dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:text="Owner"
+                android:textAlignment="center"
+                android:layout_below="@+id/PrTt"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+            <TextView
+                android:id="@+id/PrDurTy"
+                android:layout_width="295dp"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/PrStat"
+                android:layout_marginBottom="10dp"
+                android:text="Project  Duration/ Project Type"
+                android:textAlignment="center"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

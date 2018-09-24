@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Sent"
+            android:icon="@drawable/ic_sent"
+            android:title="Sent Comments" />
+        <item
+            android:id="@+id/nav_Cret"
+            android:icon="@drawable/ic_cretmsg"
+            android:title="Create A Comment" />
+        <item
+            android:id="@+id/nav_Settin"
+            android:icon="@drawable/ic_settin"
+            android:title="Settings" />
+    </group>
+
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_Prof"
+                android:icon="@drawable/ic_profile"
+                android:title="My Profile" />
+            <item
+                android:id="@+id/nav_Lgout"
+                android:icon="@drawable/ic_lgout"
+                android:title="Log Out" />
+            <item
+                android:id="@+id/nav_Exit"
+                android:icon="@drawable/ic_exit"
+                android:title="Exit" />
+        </menu>
+    </item>
+
+</menu>

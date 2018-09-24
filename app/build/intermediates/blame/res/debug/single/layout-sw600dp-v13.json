@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

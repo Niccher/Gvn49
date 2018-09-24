@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action.xml"
+    }
+]

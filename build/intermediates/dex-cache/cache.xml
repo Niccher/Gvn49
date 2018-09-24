@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-design-26.0.0-alpha1_07cf4efc36ea6bda0dc7e4aee623571f75067f8d.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-26.0.0-alpha1_400c0973d3287caa8091117a768d893685de1cc5.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-26.0.0-alpha1_0a6d85eee7c6c2a47a6b0ccff821691186603ec2.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-26.0.0-alpha1_71f83454d15a4f8a92cbbcb3b2cced37344295ed.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-26.0.0-alpha1_a9e6690991dd1bea2e906d280c92b46dd528ad6c.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-26.0.0-alpha1_0f6cff08411053f66798de4ceae8451a2ba05373.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.volley-volley-1.0.0_7344b0ae0205a86b058baca16fb6b206a0bb0743.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-26.0.0-alpha1_ef3fef9ce730cae5dd33775a43dc356635c3c822.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-26.0.0-alpha1_cfd347f43d6ea578e8d6357f06f7b0a7cd90e3c6.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_76f81077aea9bd1699aabfb9818dc8fa3bde44df.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/support-annotations-26.0.0-alpha1_85963f9c65ca0eff4627cb4019e679fd42e1a3d4.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-26.0.0-alpha1_511589d6d3468c6756f0f10243789184be644b1e.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-26.0.0-alpha1_e211e1e25e5552b6803a93af9e184aabf9b88340.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-transition-26.0.0-alpha1_2d2c6a1c1392aaab574dfe50fe6e54213b582654.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support.constraint-constraint-layout-1.0.2_d779786faab021fb6b1af78422860f431a92cbd0.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-26.0.0-alpha1_94648fe05d0ed258f555f3d1bac8b2dd1494209d.jar" />
+    </item>
+    <item
+        jar="/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/root/Prjs/Gvn49/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-26.0.0-alpha1_b808f91361ceb401ff7ab1a67b706043bcb82c88.jar" />
+    </item>
+
+</items>

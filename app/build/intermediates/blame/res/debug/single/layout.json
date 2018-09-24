@@ -1,0 +1,1150 @@
+[
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_cretuser2.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activ_cretuser2.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_prof.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_prof.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_spla.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activity_spla.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_pwd_reset.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/activ_pwd_reset.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_forgpwd.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activ_forgpwd.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_nwuser.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_nwuser.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_catpost1.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_catpost1.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/panolold.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/panolold.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_forgpwd.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/activ_forgpwd.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_nyumbani.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_nyumbani.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_cret_user.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activity_cret_user.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_profs.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/frag_profs.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_prof.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_prof.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_sent.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_sent.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/fragment_infos.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/fragment_infos.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/fragm_edites.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/fragm_edites.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_newpost.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_newpost.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_logs.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activ_logs.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_sent.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/frag_sent.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_oldpost.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_oldpost.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_logs.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/activ_logs.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/panolold.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/panolold.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_oldpost.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_oldpost.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/app_bar_limpio.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/app_bar_limpio.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_myprof.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_myprof.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_nyumbani.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activ_nyumbani.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_catego.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_catego.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_newpost.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_newpost.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/content_limpio.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/content_limpio.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_prof.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_prof.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_pwd_reset.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activ_pwd_reset.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/content_homie.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/content_homie.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/nav_header_limpio.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/nav_header_limpio.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/app_bar_homie.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/app_bar_homie.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_logs.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activ_logs.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_myprof.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_myprof.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_catego.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/frag_catego.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_fullscreen.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activity_fullscreen.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_catpost1.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_catpost1.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/fragm_edites.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/fragm_edites.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/panolold.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/panolold.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_nwuser.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_nwuser.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_newpost.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_newpost.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_nwuser.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_nwuser.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_oldpost.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_oldpost.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/nav_header_homie.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/nav_header_homie.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_profff.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activity_profff.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_oldpost.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/frag_oldpost.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_pwd_reset.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activ_pwd_reset.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_cretuser2.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/activ_cretuser2.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/repita.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/repita.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/panolold.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/panolold.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_limpio.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/activ_limpio.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/fragment_infos.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/fragment_infos.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_catpost1.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_catpost1.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_profs.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_profs.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_myprof.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/frag_myprof.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_homie.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activity_homie.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_spla.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/activity_spla.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_profff.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activity_profff.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_forgpwd.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activ_forgpwd.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/frag_settin.xml",
+        "source": "/root/Prjs/Gvn49/app/src/main/res/layout/frag_settin.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_spla.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activity_spla.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activ_logs.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activ_logs.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_profff.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activity_profff.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/activity_spla.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/activity_spla.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/media/niccher/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/media/nicch/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/repita.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/src/main/res/layout/repita.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/root/Prjs/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/root/Prjs/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/media/root/Bookies/Ap/Android/Gvn49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout/abc_list_menu_item_checkbox.xml"
+    }
+]
